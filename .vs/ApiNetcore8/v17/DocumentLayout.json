@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\SonarQube\\Codigo2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3708F65D-3315-4D6C-9D05-16E4E99A1FC4}|ApiNetcore8\\ApiNetcore8.csproj|c:\\sonarqube\\codigo2\\apinetcore8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3708F65D-3315-4D6C-9D05-16E4E99A1FC4}|ApiNetcore8\\ApiNetcore8.csproj|solutionrelative:apinetcore8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3708F65D-3315-4D6C-9D05-16E4E99A1FC4}|ApiNetcore8\\ApiNetcore8.csproj|C:\\SonarQube\\Codigo2\\apinetcore8\\apinetcore8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3708F65D-3315-4D6C-9D05-16E4E99A1FC4}|ApiNetcore8\\ApiNetcore8.csproj|solutionrelative:apinetcore8\\apinetcore8.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3708F65D-3315-4D6C-9D05-16E4E99A1FC4}|ApiNetcore8\\ApiNetcore8.csproj|C:\\SonarQube\\Codigo2\\apinetcore8\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3708F65D-3315-4D6C-9D05-16E4E99A1FC4}|ApiNetcore8\\ApiNetcore8.csproj|solutionrelative:apinetcore8\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\SonarQube\\Codigo2\\ApiNetcore8\\Producto.cs",
+              "RelativeDocumentMoniker": "ApiNetcore8\\Producto.cs",
+              "ToolTip": "C:\\SonarQube\\Codigo2\\ApiNetcore8\\Producto.cs",
+              "RelativeToolTip": "ApiNetcore8\\Producto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:28:16.563Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApiNetcore8",
+              "DocumentMoniker": "C:\\SonarQube\\Codigo2\\ApiNetcore8\\ApiNetcore8.csproj",
+              "RelativeDocumentMoniker": "ApiNetcore8\\ApiNetcore8.csproj",
+              "ToolTip": "C:\\SonarQube\\Codigo2\\ApiNetcore8\\ApiNetcore8.csproj",
+              "RelativeToolTip": "ApiNetcore8\\ApiNetcore8.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-27T02:34:32.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\SonarQube\\Codigo2\\ApiNetcore8\\Program.cs",
+              "RelativeDocumentMoniker": "ApiNetcore8\\Program.cs",
+              "ToolTip": "C:\\SonarQube\\Codigo2\\ApiNetcore8\\Program.cs",
+              "RelativeToolTip": "ApiNetcore8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T02:23:32.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

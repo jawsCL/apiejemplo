@@ -1,0 +1,1 @@
+C:\SonarQube\Codigo2\.sonarqube\out\0
