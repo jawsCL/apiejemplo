@@ -12,7 +12,8 @@ namespace TuNamespace
         {
             new Producto { Id = 1, Nombre = "Producto 1", Descripcion = "Descripción del Producto 1", Precio = 10.0m, Cantidad = 100 },
             new Producto { Id = 2, Nombre = "Producto 2", Descripcion = "Descripción del Producto 2", Precio = 20.0m, Cantidad = 200 },
-            new Producto { Id = 3, Nombre = "Producto 3", Descripcion = "Descripción del Producto 3", Precio = 30.0m, Cantidad = 300 }
+            new Producto { Id = 3, Nombre = "Producto 3", Descripcion = "Descripción del Producto 3", Precio = 30.0m, Cantidad = 300 },
+            new Producto { Id = 4, Nombre = "Producto 4", Descripcion = "Descripción del Producto 4", Precio = 40.0m, Cantidad = 400 }
         };
 
         [HttpGet]
