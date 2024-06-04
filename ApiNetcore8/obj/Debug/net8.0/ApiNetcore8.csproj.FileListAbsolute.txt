@@ -62,3 +62,4 @@ C:\SonarQube\Codigo2\ApiNetcore8\obj\Debug\net8.0\refint\ApiNetcore8.dll
 C:\SonarQube\Codigo2\ApiNetcore8\obj\Debug\net8.0\ApiNetcore8.pdb
 C:\SonarQube\Codigo2\ApiNetcore8\obj\Debug\net8.0\ApiNetcore8.genruntimeconfig.cache
 C:\SonarQube\Codigo2\ApiNetcore8\obj\Debug\net8.0\ref\ApiNetcore8.dll
+C:\SonarQube\Codigo2\ApiNetcore8\obj\Debug\net8.0\ApiNetcore8.sourcelink.json

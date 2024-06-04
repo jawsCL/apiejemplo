@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiNetcore8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0a507facdd614abd5ef70d03aef30ca1e6e4516")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiNetcore8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiNetcore8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
